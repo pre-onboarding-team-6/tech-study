@@ -23,9 +23,9 @@
 
 <div align="center">
 
-| 김동규 | 오현재 | 조규성 | 조윤희 |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/p-c-w/universe/assets/86090355/29941c7f-ac9b-4569-afd3-b87c7b04cbcf" style="width: 150px"> | <img src="https://github.com/pre-onboarding-team-6/.github/assets/86090355/d5949e17-45a2-4f29-b7a1-c6ce2ad030c5" style="width: 150px"> | <img src="https://github.com/pre-onboarding-team-6/.github/assets/86090355/a72357cc-dbdb-4e3d-a5d5-7d7c53c086cd" style="width: 150px"> | <img src="https://placehold.co/150x150" style="width: 150px"> |
+| 김동규 | 조규성 | 조윤희 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/p-c-w/universe/assets/86090355/29941c7f-ac9b-4569-afd3-b87c7b04cbcf" style="width: 150px"> | <img src="https://github.com/pre-onboarding-team-6/.github/assets/86090355/a72357cc-dbdb-4e3d-a5d5-7d7c53c086cd" style="width: 150px"> | <img src="https://placehold.co/150x150" style="width: 150px"> |
 | **[김동규's github](https://github.com/5kdk)** | **[오현재's github](https://github.com/hangooksaram)** | **[조규성's github](https://github.com/operat04)** | **[조윤희's github](https://github.com/YUNH7)** |
 
 </div>
