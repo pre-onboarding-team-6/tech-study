@@ -69,11 +69,11 @@
 - [event bubbling에 대해 설명해주세요.](./JavaScript/event%20bubbling에%20대해%20설명해주세요.md)
 - [undefined와 null의 차이점을 설명해주세요.](./JavaScript/undefined와%20null의%20차이점을%20설명해주세요.md)
 - [호이스팅에 대해 설명해주세요.(+TDZ)](<./JavaScript/호이스팅에%20대해%20설명해주세요(+TDZ).md>)
-- [AJAX란 무엇인가요?](./JavaScript/AJAX란%20무엇인가요?.md)
-- [콜 스택(Call stack)과 힙(Heap)이 무엇인가요?](./JavaScript/콜%20스택(Call%20stack)과%20힙(Heap)이%20무엇인가요?.md)
-- [==와 ===의 차이점은 무엇인가요?](./JavaScript/==와%20===의%20차이점은%20무엇인가요?.md)
-- [실행 컨텍스트가 무엇인가요?](./JavaScript/실행%20컨텍스트가%20무엇인가요?.md)
-- [스코프와 스코프체인이란 무엇인가요?](./JavaScript/스코프와%20스코프체인이란%20무엇인가요?.md)
+- [AJAX란 무엇인가요?](./JavaScript/AJAX란%20무엇인가요%3F.md)
+- [콜 스택(Call stack)과 힙(Heap)이 무엇인가요?](./JavaScript/콜%20스택(Call%20stack)과%20힙(Heap)이%20무엇인가요%3F.md)
+- [==와 ===의 차이점은 무엇인가요?](./JavaScript/==와%20===의%20차이점은%20무엇인가요%3F.md)
+- [실행 컨텍스트가 무엇인가요?](./JavaScript/실행%20컨텍스트가%20무엇인가요%3F.md)
+- [스코프와 스코프체인이란 무엇인가요?](./JavaScript/스코프와%20스코프체인이란%20무엇인가요%3F.md)
 
 ### 3주 React 를 포함한 프론트엔드 라이브러리
 
